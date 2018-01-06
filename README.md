@@ -28,8 +28,8 @@ Espresso.registerIdlingResources(idlingResource);
 Download
 -------
 
-```   groovy
-   androidTestImplementation 'com.github.kushsaini10:connectivity-idling-resource:1.0.0'
+```groovy
+androidTestImplementation 'com.github.kushsaini10:connectivity-idling-resource:1.0.0'
 ```
 
 
