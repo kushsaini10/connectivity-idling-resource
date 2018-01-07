@@ -1,5 +1,7 @@
 Connectivity Idling Resource
 ============================
+[![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
+[![Medium](https://img.shields.io/badge/Medium-article-blue.svg?style=flat&colorB=03a87c)](https://medium.com/@kushsaini.700/i-wanted-espresso-tests-to-watch-for-internet-connectivity-so-i-wrote-my-own-idling-resource-and-b8e53ee67eba)
 
 An Espresso `IdlingResource` for Internet Connectivity.
 
